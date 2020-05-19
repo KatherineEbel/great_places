@@ -43,5 +43,11 @@
 	<string>Great Places needs access to your camera so you can save pictures of places.</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need your location</string>
 </dict>
 </plist>
